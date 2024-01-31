@@ -1,16 +1,24 @@
-### Hi there 👋
+### HI THERE 👋 I'M A PASSTIONATE SOFTWARE DEVELOPER FROM VIETNAM
 
-<!--
-**giabaodev/giabaodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [TMA Solutions](https://www.tmasolutions.vn/).
+- 🌱 I’m currently learning NodeJS and more about JavaScript.
+- 🤔 I’m looking for help with NodeJS frameworks.
+- 🎓 I graduated IT on [HUTECH](https://www.hutech.edu.vn/).
+- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/giabaodev/).
 
-Here are some ideas to get you started:
+## ⚡ My Hobbies
+- 🌍: I like traveling around the world.
+- 🏅: I love participating swimming and sport activities.
+- :mag_right: Research new programming technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Favorite languages and tools
+<p align="center">
+<code><img width="40" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img width="40" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img width="40" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img width="40" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img width="40" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img width="40" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img width="40" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img width="40" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+</p>
