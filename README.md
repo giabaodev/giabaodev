@@ -1,6 +1,5 @@
 ### HI THERE 👋 I'M A PASSTIONATE SOFTWARE DEVELOPER FROM VIETNAM
 
-- 🔭 I’m currently working on [TMA Solutions](https://www.tmasolutions.vn/).
 - 🌱 I’m currently learning NodeJS and more about JavaScript.
 - 🤔 I’m looking for help with NodeJS frameworks.
 - 🎓 I graduated IT on [HUTECH](https://www.hutech.edu.vn/).
