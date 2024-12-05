@@ -1,14 +1,8 @@
-### HI THERE 👋 I'M A PASSTIONATE SOFTWARE DEVELOPER FROM VIETNAM
+### HI THERE 👋 I'M A FULLSTACK DEVELOPER FROM VIETNAM
 
-- 🌱 I’m currently learning NodeJS and more about JavaScript.
-- 🤔 I’m looking for help with NodeJS frameworks.
+- 🌱 I’m currently learning JavaScript and relative frameworks.
 - 🎓 I graduated IT on [HUTECH](https://www.hutech.edu.vn/).
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/giabaodev/).
-
-## ⚡ My Hobbies
-- 🌍: I like traveling around the world.
-- 🏅: I love participating swimming and sport activities.
-- :mag_right: Research new programming technologies.
 
 ## ⚡ Favorite languages and tools
 <p align="center">
